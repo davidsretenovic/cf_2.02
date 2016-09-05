@@ -315,15 +315,41 @@ body {
   -o-background-size: cover;
 }
 
+/* unnecessary 
+#contact-wrapper {
+  width: 85%;
+  margin: 2% auto 5% auto;
+  padding-bottom: 2%;
+} */
+
 #contact-title {
   border: rebeccapurple solid 3px;
-  width: 50%;
+  /* width: 50%; */
 }
 
 #contact-details {
   border: cornflowerblue solid 3px;
-  width: 50%;
+  /* width: 50%; */
   padding-top: 1%;
+  margin-top: 1%;
+}
+
+.contact-info {
+  padding-right: 2%;
+}
+
+/* contact form */
+
+#contact-form {
+  padding-left: 5%;
+  width: 80%;
+}
+
+form {
+  margin: 0 auto;
+  /* width: 80%; */
+  padding-top: 1%;
+  padding-bottom: 2%;
 }
 
 /* footer */
