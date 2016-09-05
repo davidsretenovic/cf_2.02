@@ -53,6 +53,9 @@ body {
   #work > [class*="col-"] {
     height: 12%;
   }
+  #contact-wrapper {
+    height: 100%;
+  }
 }
 
 /* Extra Small Devices, Phones */ 
@@ -66,6 +69,9 @@ body {
   #work > [class*="col-"] {
     height: 12%;
   }
+  #contact-wrapper {
+    height: 100%;
+  }
 }
 
 /* Small Devices, Tablets */
@@ -78,6 +84,9 @@ body {
   }
   #work > [class*="col-"] {
     height: 20%;
+  }
+  #contact-wrapper {
+    height: 100%;
   }
 }
 
